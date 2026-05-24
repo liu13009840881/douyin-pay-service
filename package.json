@@ -1,0 +1,11 @@
+{
+  "name": "douyin-pay-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.1",
+    "koa-bodyparser": "^4.4.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
